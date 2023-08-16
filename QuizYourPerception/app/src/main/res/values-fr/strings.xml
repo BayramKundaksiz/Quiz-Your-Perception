@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Quiz Your Perception</string>
+    <string name="sol_puan">Point</string>
+    <string name="otomatik_sorular">COULEUR</string>
+    <string name="kirmizi">ROUGE</string>
+    <string name="lacivert">BLEU MARINE</string>
+    <string name="sari">JAUNE</string>
+    <string name="mor">VIOLET</string>
+    <string name="siyah">NOIR</string>
+    <string name="yeşil">VERT</string>
+    <string name="turuncu">ORANGE</string>
+    <string name="pembe">ROSE</string>
+    <string name="turkuaz">TURQUOIS</string>
+    <string name="yeniden_oyna">Rejouez</string>
+    <string name="ekstra_sure">Temps Supplémentaire</string>
+    <string name="en_yuksek_puan">Le Meilleur Score</string>
+    <string name="puanim">Point</string>
+    <string name="baslamak_icin_tikla">Cliquez sur le bouton pour commencer</string>
+
+    <string name="puanim_showcase" translatable="false">Voici votre score, votre score augmentera de 5 points pour correct et diminuera de 10 points pour faux.
+</string>
+    <string name="kalan_sure_showcase" translatable="false">Ici, vous verrez votre temps restant
+</string>
+    <string name="random_renk" translatable="false">Vous ferez correspondre la couleur du nom de couleur spécifié ici avec le texte dans les cases ci-dessous et cliquez.
+    Par exemple, si le texte bleu marine est écrit en rouge, vous cliquerez sur le bouton qui dit rouge dans le texte parmi les boutons ci-dessous. Pas le texte avec le bouton rouge !!!</string>
+
+    <string name="gecmek_icin_tiklayin_showcase" translatable="false">Cliquez pour sauter</string>
+
+</resources>

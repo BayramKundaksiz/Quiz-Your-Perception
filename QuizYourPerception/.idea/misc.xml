@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Bayram/Bumu/app/src/main/res/layout-normal/baslatma_dialogu.xml" value="0.2421875" />
+        <entry key="..\:/Users/Bayram/Bumu/app/src/main/res/layout-normal/sonuc_ekrani.xml" value="0.24166666666666667" />
+        <entry key="..\:/Users/Bayram/Desktop/QuizYourPerception/app/src/main/res/layout-large/activity_main.xml" value="0.152" />
+        <entry key="..\:/Users/Bayram/Desktop/QuizYourPerception/app/src/main/res/layout-large/baslatma_dialogu.xml" value="0.19880290722530997" />
+        <entry key="..\:/Users/Bayram/Desktop/QuizYourPerception/app/src/main/res/layout-large/sonuc_ekrani.xml" value="0.19880290722530997" />
+        <entry key="..\:/Users/Bayram/Desktop/QuizYourPerception/app/src/main/res/layout-normal/activity_main.xml" value="0.176" />
+        <entry key="..\:/Users/Bayram/Desktop/QuizYourPerception/app/src/main/res/layout-normal/baslatma_dialogu.xml" value="0.152" />
+        <entry key="..\:/Users/Bayram/Desktop/QuizYourPerception/app/src/main/res/layout-small/activity_main.xml" value="0.4" />
+        <entry key="..\:/Users/Bayram/Desktop/QuizYourPerception/app/src/main/res/layout-xlarge/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/Bayram/Desktop/QuizYourPerception/app/src/main/res/layout/activity_main.xml" value="0.2421875" />
+        <entry key="..\:/Users/Bayram/Desktop/QuizYourPerception/app/src/main/res/layout/baslatma_dialogu.xml" value="0.19880290722530997" />
+        <entry key="..\:/Users/bayram/AndroidStudioProjects/QuizYourPerception/app/src/main/res/drawable-v24/circle_progress_bar.xml" value="0.2015" />
+        <entry key="..\:/Users/bayram/AndroidStudioProjects/QuizYourPerception/app/src/main/res/layout-large/activity_main.xml" value="0.2" />
+        <entry key="..\:/Users/bayram/AndroidStudioProjects/QuizYourPerception/app/src/main/res/layout-large/baslatma_dialogu.xml" value="0.144" />
+        <entry key="..\:/Users/bayram/AndroidStudioProjects/QuizYourPerception/app/src/main/res/layout-large/sonuc_ekrani.xml" value="0.20863616930312098" />
+        <entry key="..\:/Users/bayram/AndroidStudioProjects/QuizYourPerception/app/src/main/res/layout-normal/activity_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/bayram/AndroidStudioProjects/QuizYourPerception/app/src/main/res/layout-normal/baslatma_dialogu.xml" value="0.20854700854700856" />
+        <entry key="..\:/Users/bayram/AndroidStudioProjects/QuizYourPerception/app/src/main/res/layout-normal/sonuc_ekrani.xml" value="0.20863616930312098" />
+        <entry key="..\:/Users/bayram/AndroidStudioProjects/QuizYourPerception/app/src/main/res/layout-small/activity_main.xml" value="0.4" />
+        <entry key="..\:/Users/bayram/AndroidStudioProjects/QuizYourPerception/app/src/main/res/layout-small/baslatma_dialogu.xml" value="0.4" />
+        <entry key="..\:/Users/bayram/AndroidStudioProjects/QuizYourPerception/app/src/main/res/layout-small/sonuc_ekrani.xml" value="0.264" />
+        <entry key="..\:/Users/bayram/AndroidStudioProjects/QuizYourPerception/app/src/main/res/layout-xlarge/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/bayram/AndroidStudioProjects/QuizYourPerception/app/src/main/res/layout-xlarge/baslatma_dialogu.xml" value="0.12708333333333333" />
+        <entry key="..\:/Users/bayram/AndroidStudioProjects/QuizYourPerception/app/src/main/res/layout-xlarge/sonuc_ekrani.xml" value="0.128" />
+        <entry key="..\:/Users/bayram/AndroidStudioProjects/QuizYourPerception/app/src/main/res/layout/activity_main.xml" value="0.24010416666666667" />
+        <entry key="..\:/Users/bayram/AndroidStudioProjects/QuizYourPerception/app/src/main/res/layout/baslatma_dialogu.xml" value="0.20854700854700856" />
+        <entry key="..\:/Users/bayram/AndroidStudioProjects/QuizYourPerception/app/src/main/res/layout/dialog_baslat.xml" value="0.19900497512437812" />
+        <entry key="..\:/Users/bayram/AndroidStudioProjects/QuizYourPerception/app/src/main/res/layout/sonuc_ekrani.xml" value="0.16326530612244897" />
+        <entry key="..\:/Users/bayram/AndroidStudioProjects/QuizYourPerception/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.2015" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

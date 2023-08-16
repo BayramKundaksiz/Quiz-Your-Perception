@@ -1,0 +1,29 @@
+<resources>
+
+    <string name="app_name">Quiz Your Perception</string>
+    <string name="sol_puan">Point</string>
+    <string name="otomatik_sorular">FARBE</string>
+    <string name="kirmizi">ROT</string>
+    <string name="lacivert">MARINEBLAU</string>
+    <string name="sari">YELLOW</string>
+    <string name="mor">GELB</string>
+    <string name="siyah">SCHWARZ</string>
+    <string name="yeşil">GRÜN</string>
+    <string name="turuncu">ORANGE</string>
+    <string name="pembe">ROSA</string>
+    <string name="turkuaz">TÜRKIS</string>
+    <string name="yeniden_oyna">Wieder Spielen</string>
+    <string name="ekstra_sure">Zusätzliche Zeit</string>
+    <string name="en_yuksek_puan">Beste Note</string>
+    <string name="puanim">Point</string>
+    <string name="baslamak_icin_tikla">Klicken Sie auf die Schaltfläche, um zu beginnen</string>
+
+    <string name="puanim_showcase" translatable="false">Hier ist Ihre Punktzahl, Ihre Punktzahl erhöht sich um 5 Punkte für richtig und verringert sich um 10 Punkte für falsch.</string>
+    <string name="kalan_sure_showcase" translatable="false">Hier sehen Sie Ihre verbleibende Zeit</string>
+    <string name="random_renk" translatable="false">Sie werden die Farbe des hier angegebenen Farbnamens mit dem Text in den Feldern unten abgleichen und klicken.
+    Wenn beispielsweise der marineblaue Text in Rot geschrieben ist, klicken Sie auf die Schaltfläche mit der Aufschrift Rot im Text von den Schaltflächen unten. Nicht der Text mit dem roten Knopf!!!</string>
+
+    <string name="gecmek_icin_tiklayin_showcase" translatable="false">
+Zum Überspringen klicken</string>
+
+</resources>

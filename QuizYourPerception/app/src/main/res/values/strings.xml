@@ -1,0 +1,28 @@
+<resources>
+
+    <string name="app_name">Quiz Your Perception</string>
+    <string name="sol_puan">Puan</string>
+    <string name="otomatik_sorular">RENK</string>
+    <string name="kirmizi">KIRMIZI</string>
+    <string name="lacivert">LACİVERT</string>
+    <string name="sari">SARI</string>
+    <string name="mor">MOR</string>
+    <string name="siyah">SİYAH</string>
+    <string name="yeşil">YEŞİL</string>
+    <string name="turuncu">TURUNCU</string>
+    <string name="pembe">PEMBE</string>
+    <string name="turkuaz">TURKUAZ</string>
+    <string name="yeniden_oyna">Yeniden Oyna</string>
+    <string name="ekstra_sure">Ekstra Süre</string>
+    <string name="en_yuksek_puan">En Yüksek Puan</string>
+    <string name="puanim">Puanım</string>
+    <string name="baslamak_icin_tikla">Başlamak için butona tıklayınız</string>
+
+    <string name="puanim_showcase" translatable="false">Burada puanınız yer almakta, doğrularınızda puanınız 5 artacak olup yanlışlarınızda ise 10 puan azalacaktır</string>
+    <string name="kalan_sure_showcase" translatable="false">Burada kalan sürenizi göreceksiniz</string>
+    <string name="random_renk" translatable="false">Burada belirtilen renk isminin rengini, aşağıdaki kutularda yazan yazı ile eşleştirip tıklayacaksınız.
+    Örneğin lacivert yazısı kırmızı renk ile yazılmışsa aşağıdaki butonlardan yazı ile kırmızı yazan butonu tıklayacaksınız. Kırmızı butonlu yazıyı değil !!!</string>
+
+    <string name="gecmek_icin_tiklayin_showcase" translatable="false">Geçmek için bu yazıyı tıklayın</string>
+
+</resources>
